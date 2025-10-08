@@ -1,5 +1,5 @@
-github.com/LearnLoop365/flxr-core v0.0.0-20251008160104-0929604ebe0a h1:rWuut37T2U8xxeu7hpXsnWriCw0BLp6IcZEQ245VZno=
-github.com/LearnLoop365/flxr-core v0.0.0-20251008160104-0929604ebe0a/go.mod h1:S+KRO3rX+CDzzzVDbZn3TKXNzAE0zUzlWBYlcvhsa2U=
+github.com/LearnLoop365/flxr-core v0.0.0-20251008160321-ddbfc2ccba30 h1:mtwXW2vaRzyH8MioIiQ+wCEslqcYWr0sQCiLQ50xzTE=
+github.com/LearnLoop365/flxr-core v0.0.0-20251008160321-ddbfc2ccba30/go.mod h1:8QxesC2+ZXKujmIrvK0RmxT+N3LVOzcMoc3WxviOgug=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/jung-kurt/gofpdf v1.0.0/go.mod h1:7Id9E/uU8ce6rXgefFLlgrJj/GYY22cpxn+r32jIOes=

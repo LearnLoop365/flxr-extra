@@ -1,9 +1,9 @@
 module github.com/LearnLoop365/flxr-extra
 
-go 1.25.1
+go 1.25.2
 
 require (
-	github.com/LearnLoop365/flxr-core v0.0.0-20251008160104-0929604ebe0a
+	github.com/LearnLoop365/flxr-core v0.0.0-20251008160321-ddbfc2ccba30
 	github.com/phpdave11/gofpdf v1.4.3
 )
 
