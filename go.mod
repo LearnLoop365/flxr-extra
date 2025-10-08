@@ -3,7 +3,7 @@ module github.com/LearnLoop365/flxr-extra
 go 1.25.2
 
 require (
-	github.com/LearnLoop365/flxr-core v0.0.0-20251008160321-ddbfc2ccba30
+	github.com/LearnLoop365/flxr-core v0.0.0-20251008164301-60e9a6f71d08
 	github.com/phpdave11/gofpdf v1.4.3
 )
 
