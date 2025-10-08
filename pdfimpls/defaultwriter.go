@@ -17,7 +17,7 @@ import (
 // Currently Custom Size Not Supported: "Letter" and "A4" Only
 // ToDo: Support custom fonts
 type DefaultWriter struct {
-	pdfs.Writer[int] // [Interface]
+	pdfs.Writer[int] // [Embedded Interface] [To Implement]
 
 	paperSize   pdfs.PaperSize
 	orientation string
